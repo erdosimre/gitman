@@ -1,0 +1,11 @@
+[33mcommit e9bff73efdb53f685bb8ac2a01ad8c4bf1698fdb[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m)[m
+Author: Erdős Imre <imre@ibee.ro>
+Date:   Mon Mar 25 08:28:08 2024 +0200
+
+    Greet user by the name
+
+[33mcommit f30c879c5de35ea0bb6779d5b8187701361ef1d8[m[33m ([m[1;32mmain[m[33m)[m
+Author: Erdős Imre <imre@ibee.ro>
+Date:   Mon Mar 25 08:21:00 2024 +0200
+
+    Hello, world
